@@ -192,6 +192,10 @@ in
       #ruby
       jdk22
       glslang
+      contrast
+      gdb
+      git-crypt
+      libressl
     ];
     programs.hyfetch = {
       enable = true;
